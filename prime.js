@@ -1,6 +1,7 @@
 //prime problem
-let number=13;
+let num=13;
 let count=0;
+//m2_codeFix
 for(let i=1; i<=number;i++){
 if(number%i==0){
 count++}
